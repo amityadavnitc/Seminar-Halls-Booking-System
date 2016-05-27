@@ -1,1 +1,1 @@
-It's is an android studio project on seminar halls booking system.
+Android studio project and apk file for seminar halls booking system.
